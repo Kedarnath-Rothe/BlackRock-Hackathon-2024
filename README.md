@@ -1,4 +1,4 @@
-# Wealthify - BlackRock Hackathon 2024  
+# Wealthify - BlackRock Hackathon 2024  [![Visit Wealthify](https://img.shields.io/badge/Visit%20Wealthify-Vercel-blue)](https://wealthify01.vercel.app/)
 A web application designed to provide **Financial Education and Management for Students**. Built during a 24-hour hackathon by BlackRock in July 2024, Wealthify helps students find relevant courses based on their queries, through both text and voice input.
 
 ## Features  
